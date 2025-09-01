@@ -34,9 +34,10 @@ input_path = '~/.config/matugen/templates/wallpaper.txt'
 output_path = '~/.local/state/quickshell/user/generated/wallpaper/path.txt'
 
 [templates.kitty]
-input_path  = "~/.config/matugen/templates/kitty/kitty.tmpl"
-output_path = "~/.config/kde-material-you-colors/kitty.conf"
+input_path  = "~/.config/matugen/templates/kitty/colors.hbs"
+output_path = '~/.config/kitty/colors-matugen.conf'
 
-[templates.shell]
-input_path  = "~/.config/matugen/templates/shell/matugen.zsh.tmpl"
-output_path = "~/.config/kde-material-you-colors/shell/matugen.zsh"
+[templates.zsh]
+input_path  = "~/.config/matugen/templates/zsh/colors.hbs"
+output_path = "~/.local/state/matugen/zsh/35-matugen.zsh"
+
