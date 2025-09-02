@@ -1,0 +1,1 @@
+/nix/store/2yk0qbs1fd9hnk121ib6aqcz09rx7d88-home-manager-files/.config/wallust/hooks/update_theme.sh
